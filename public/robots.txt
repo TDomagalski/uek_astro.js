@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uek-astro-js.vercel.app/sitemap.xml
